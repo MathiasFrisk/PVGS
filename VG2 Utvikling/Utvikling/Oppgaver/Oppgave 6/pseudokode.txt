@@ -1,0 +1,15 @@
+# Først lag en variabel der bruker kan sette inn pris på varene  (belopsum)
+# Lag en variabel der kjøper kan oppgi hvor mye de betaler med (kjopesum)
+# Lag en variabel der den skal regne ut hvor mye betaler skal få tilbake med belopsum - kjopesum
+
+# Lag en print kommando som skriver ut hvor mange penger betaleren skal få tilbake 
+# lag en if setning som regner ut hvor mange ulike lapper og mynter skal få tilbake.
+
+# En if-setning som kjører når veksletpenger er mer enn 500kr
+# En if-setning som kjører når veksletpenger er mer enn 200kr
+# En if-setning som kjører når veksletpenger er mer enn 100kr
+# En if-setning som kjører når veksletpenger er mer enn 50kr
+# En if-setning som kjører når veksletpenger er mer enn 20kr
+# En if-setning som kjører når veksletpenger er mer enn 10kr
+# En if-setning som kjører når veksletpenger er mer enn 5kr
+# En if-setning som kjører når veksletpenger er mer enn 1kr

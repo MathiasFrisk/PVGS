@@ -1,0 +1,6 @@
+# Lag en variabel som heter gangetabell og den skal ha input
+# lag en variabel som heter teller med verdi 1
+
+# lag en while løkke som har < 10
+# skriv til skjerm resultatene
+# og pluss på 1

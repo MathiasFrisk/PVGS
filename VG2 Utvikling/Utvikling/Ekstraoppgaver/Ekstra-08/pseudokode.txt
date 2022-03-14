@@ -1,0 +1,8 @@
+# hent inn random funksjon fra python biblioteket
+# Lag en variabel som teller runder spilt med start verdien 0
+# Lag en liste som inneholder stein saks papir
+# skriv til skjerm at spillet har startet
+# Lag et inputfelt hvor brukeren kan skrive inn stein, saks eller papir
+# Lag en while løkke som gjentar programmet
+# Masse if setninger
+# skriv til skjerm om brukeren vant eller tapte

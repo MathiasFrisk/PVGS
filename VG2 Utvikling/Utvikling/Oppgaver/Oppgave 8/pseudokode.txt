@@ -1,0 +1,7 @@
+# Lag først en variabel som heter "gangetabell" med input felt der bruker kan skrive hvilken gangetabell
+# Lag en variabel med veriden null som heter "teller"
+# lag en liste som heter "gange" som er tom
+# lag en while loop som at 10 er høyere en teller
+# teller er + 1 for at den skal ikke starte på null og ganger med hva bruker har tatt inn
+#
+# skriv til skjerm gange

@@ -1,0 +1,15 @@
+#   Opprett grønn kopp
+#   Opprett sort kopp
+#   Opprett hvit kopp
+
+#   Gir grønn kopp verdien *rød penn*
+#   Gir sort kopp verdien *blå penn*    
+#   Gir hvit kopp verdien *null*
+
+#   Skriv innholdet til sortkopp til skjerm
+#   Skriv innholdet til grønnkopp til skjerm 
+#   Skriv innholdet til hvitkopp til skjerm
+
+#   Tar verdien rød penn fra grønn kopp og flytter til hvit kopp
+#   Tar verdien blå penn fra svart kopp og flytter til grønn kopp
+#   Tar verdien rød penn fra hvit kopp og flytter til svart kopp

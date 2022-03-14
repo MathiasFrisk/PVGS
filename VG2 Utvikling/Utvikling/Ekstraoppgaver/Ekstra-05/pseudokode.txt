@@ -1,0 +1,4 @@
+# import random
+# lag 7 variabler med random tall
+# lag 7 variabler som har vinnertallenene 
+# skriv til skjerm at du har startet lotto

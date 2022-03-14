@@ -1,0 +1,11 @@
+# Plukk opp brødskivepose
+# Oppne Brødskive pose ved å løsne på knuten
+# Ta ut brødet og legg det på bordet med den lyse siden opp.
+# Legg fram en kniv
+# hent en pakke med smør og oppne den
+# ta kniven i smøret og skrap smørret på kniven
+# bruk kniven og smør det utover brødet
+# ta frem brunosten og en ostehøvel
+# riv av plasten som er på toppen av brunostpakkningen
+# ta ostehøvelen og høvle av en osteskive og putt den på brødskiva 
+# repiter linje "10"

@@ -1,0 +1,6 @@
+# Lager en funksjon med navn volum_boks som skal hente verdien til inputen høyde
+# lag en variabel som heter "Lengde" med verdien 29,7
+# lag en variabel som heter "Bredde" med verdien 21 
+# Lager en variabel med navn volum som skal regne ut volumet
+# Lager en input der brukeren kan skrive inn høyde
+# Lager til slutt print som skal skrive ut resultatet

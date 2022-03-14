@@ -1,0 +1,10 @@
+# import random
+
+# lag en variabel som heter antallforsok med verdien 0
+# lag en variabel som heter skrivtall med verdien random.randrange
+
+# skriv til skjerm at du har startet tippe spill.
+# Lag en variabel hvor spilleren kan skrive et tall
+# Lag en if-setning som skal regne om tallet spilleren skrev er riktig/for høyt eller for lavt.
+
+# skriv til skjerm hvor mange ganger før h*n fikk riktig.

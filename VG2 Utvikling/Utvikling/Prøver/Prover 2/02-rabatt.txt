@@ -1,0 +1,4 @@
+# lag en variabel som inneholder en input felt der bruker kan skrive inn pris
+# Lag en variabel med rabatten fks "10%"
+# Lag en funksjon som regner ut den nye prisen.
+# Skriv til skjerm ny og gammel pris

@@ -1,0 +1,74 @@
+# lag en variabel som heter poeng med verdien 0
+
+# skriv til skjerm at du har startet quizen
+# skriv til skjerm hva er 2 + 2
+# hvis oppgitt svar = 4 
+#   skriv til skjerm at svaret er "riktig" 
+#   øk med poengsum 1
+# ellers
+#   skriver til skjerm at det er "feil"
+
+# skriv til skjerm Hva heter kongen av norge
+# hvis oppgitt svar = Harald
+# skriv til skjerm at svaret er "riktig" 
+#       øk med poengsum 1
+# ellers
+#   skriver til skjerm at det er "feil"
+
+# skriv til skjerm Hvem er Joe Biden
+# hvis oppgitt svar = President
+# skriv til skjerm at svaret er "riktig" 
+#       øk med poengsum 1
+# ellers
+#   skriver til skjerm at det er "feil"
+
+# skriv til skjerm Hvem er statsminister i norge
+# hvis oppgitt svar = Erna
+# skriv til skjerm at svaret er "riktig" 
+#       øk med poengsum 1
+# ellers
+#   skriver til skjerm at det er "feil"
+
+# skriv til skjerm når startet 2 verdenskrig? 
+# hvis oppgitt svar = 1939
+# skriv til skjerm at svaret er "riktig" 
+#       øk med poengsum 1
+# ellers
+#   skriver til skjerm at det er "feil"
+
+# skriv til skjerm når sluttet 2 verdenskrig? 
+# hvis oppgitt svar = 1945
+# skriv til skjerm at svaret er "riktig" 
+#       øk med poengsum 1
+# ellers
+#   skriver til skjerm at det er "feil"
+
+# skriv til skjerm når ble fortnite lansert? 
+# hvis oppgitt svar = 2017
+# skriv til skjerm at svaret er "riktig" 
+#       øk med poengsum 1
+# ellers
+#   skriver til skjerm at det er "feil"
+
+# skriv til skjerm hvilket år er det nå? 
+# hvis oppgitt svar = 2021
+# skriv til skjerm at svaret er "riktig" 
+#       øk med poengsum 1
+# ellers
+#   skriver til skjerm at det er "feil"
+
+# skriv til skjerm Hva er 2+3? 
+# hvis oppgitt svar = 5
+# skriv til skjerm at svaret er "riktig" 
+#       øk med poengsum 1
+# ellers
+#   skriver til skjerm at det er "feil"
+
+# skriv til skjerm Hva er 4+3? 
+# hvis oppgitt svar = 7
+# skriv til skjerm at svaret er "riktig" 
+#       øk med poengsum 1
+# ellers
+#   skriver til skjerm at det er "feil"
+
+# skriv til skjerm total poengsum
