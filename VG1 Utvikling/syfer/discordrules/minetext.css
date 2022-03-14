@@ -1,0 +1,83 @@
+.mc-color.mc-0 {
+  color: #000000;
+}
+
+.mc-color.mc-1 {
+  color: #0000AA;
+}
+
+.mc-color.mc-2 {
+  color: #00AA00;
+}
+
+.mc-color.mc-3 {
+  color: #00AAAA;
+}
+
+.mc-color.mc-4 {
+  color: #AA0000;
+}
+
+.mc-color.mc-5 {
+  color: #AA00AA;
+}
+
+.mc-color.mc-6 {
+  color: #FFAA00;
+}
+
+.mc-color.mc-7 {
+  color: #AAAAAA;
+}
+
+.mc-color.mc-8 {
+  color: #555555;
+}
+
+.mc-color.mc-9 {
+  color: #5555FF;
+}
+
+.mc-color.mc-a {
+  color: #55FF55;
+}
+
+.mc-color.mc-b {
+  color: #55FFFF;
+}
+
+.mc-color.mc-c {
+  color: #FF5555;
+}
+
+.mc-color.mc-d {
+  color: #FF55FF;
+}
+
+.mc-color.mc-e {
+  color: #FFFF55;
+}
+
+.mc-color.mc-f {
+  color: #FFFFFF;
+}
+
+.mc-color, .mc-r {
+  color: #ffffff;
+}
+
+.mc-l {
+  font-weight: bold;
+}
+
+.mc-m {
+  text-decoration: line-through;
+}
+
+.mc-n {
+  text-decoration: underline;
+}
+
+.mc-o {
+  font-style: italic;
+}

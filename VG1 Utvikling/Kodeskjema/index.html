@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Forms</title>
+</head>
+<body>
+    <header>
+        <!--Overskrift kommer seinere-->
+    </header>
+    <main>
+        <form>
+            <fieldset>
+                <legend>Fyll inn din informasjon</legend>
+
+                <label for="fname">Fornavn:</label><br>
+                <input type="text" id="fname" name="fname" placeholder="Skriv inn fornavn"><br>
+
+                <input for="lname">Etternavn:</fieldset></label><br>
+                <input type="text" id="lname" name="lname" placeholder="Skriv inn etternavn"><br>
+            
+                <label for="bursdag">Fødselsdato:</label>
+                <input type="date" id="bursdag" name="bursdag">
+            
+            </fieldset>
+            <fieldset>
+                <legend>Velg programområde</legend>
+
+                <input type="radio" id="IM" name="program" value="IM"> <!--The input value attribute specifies an initial value for an input field:-->
+                <label for="IM">Informasjonsteknologi og medieproduksjon</label><br> <!--merk at id for tilhørende radiobutton er IM-->
+                <input type="radio" id="FBIE" name="program" value="FBIE"> <!--legg merke til at alle radiobuttons i gruppa har samme name -->
+                <label for="FBIE">Frisør, blomst, interiør og eksponering</label><br>
+                <input type="radio" id="TIP" name="program" value="TIP">
+                <label for="TIP">Teknologi- og industrifag</label>
+            </fieldset>
+
+            <fieldset>
+                <legend>Velg fag:</legend>
+
+            </fieldset>
+        </form>
+    </main>
+</body>
+</html>

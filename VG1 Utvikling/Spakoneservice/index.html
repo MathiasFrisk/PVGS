@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Spåkoneservice</title>
+    <script type="text/javascript" src="script.js"></script>
+</head>
+<body>
+    <h1>Spåkoneservice</h1>
+	<form>
+		<input type="radio" name="kjonn" id="mann" value="Mann">Mann</input><br>
+        <input type="radio" name="kjonn" id="kvinne" value="Kvinne">Kvinne</input><br>
+        <input type="text" id="navn">Navn</input><br>
+		<input type="number" id="alder">Alder</input><br>
+		<input type="number" id="hoyde">Høyde i cm</input><br>
+	</form>
+	<input type="button" onclick="beregn()" value="Spådom!"></input><br>
+
+    <div id="utTekst"></div>
+    <div id="utTekst2"></div>
+
+</body>
+</html>

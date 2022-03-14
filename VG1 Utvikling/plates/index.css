@@ -1,0 +1,14 @@
+.c-plate {
+    width: 50%;
+    height: 96px;
+}
+.c-plate {
+    display: flex;
+    /* default flex-direction */
+    flex-direction: row;
+    flex-direction: column;
+}
+.c-plate {
+    display: flex;
+    flex-wrap: wrap;
+}
