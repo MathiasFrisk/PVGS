@@ -1,0 +1,30 @@
+body {
+    background-color: #e6b800;
+}
+
+.table {
+    background-color: rgb(255, 217, 0);
+    border: solid;
+    display: flexbox;
+    margin-right: 60px;
+    width: 25%;  
+}
+
+.dotted {
+    border-style: dotted;
+    background-color: rgb(255, 217, 0);
+    position: grid;
+    margin-left: 1100px;
+    width: 20%;  
+}
+.saxofon {
+    position: relative;
+    display: block;
+    margin-right: 60px;
+}
+
+.saxofontext {
+    display: block;
+    margin-right: 60px;
+    width: 16%;  
+}

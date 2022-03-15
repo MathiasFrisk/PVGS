@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bensinpumpa</title>
+    <!--CSS-->
+        <link rel="stylesheet" href="style.css">
+
+    <!--JavaScript-->
+        <script type="text/javascript" src="script.js"></script>
+
+</head>
+<body>
+    <h1>Bensinpumpa</h1>
+    
+<main>
+        <p>Velkommen til bensinpumpa</p>
+ 
+        <h3>Pris pr liter:</h3>
+            <p>Bensin: 13,40kr</p>
+            <p>Diesel: 12,90kr</p>
+ 
+        <h3>Fyll ut dette skjemaet</h3>
+ 
+    <form>
+        <input type="radio" id="bensin" name="drivstoff"> Bensin<br>
+        <input type="radio" id="diesel" name="drivstoff"> Diesel<br>
+        <input type="number" id="liter" placeholder="Skrive inn antall liter."> liter<br>
+        <input type="button" onclick="beregn()" value="Kalkuler">
+        <input type="reset" value="Nullstill">
+        
+        <div id="resultat"></div>
+    </form>
+</main>
+</body>
+</html>
+</html>
+
+<!-- Laget av MathiasApple og med hjelp av Raito Lorenzo -->

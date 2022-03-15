@@ -1,0 +1,7 @@
+body {
+    background-color: gray;
+}
+.border {
+    border-style: solid;
+    border-width: medium;
+}
